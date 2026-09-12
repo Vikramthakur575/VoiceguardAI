@@ -1,0 +1,6 @@
+{
+  "name": "VoiceGuard AI",
+  "description": "Real-time voice-clone fraud detection dashboard for banks, telecom operators, and enterprise security operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
